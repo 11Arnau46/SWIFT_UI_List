@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_List_StarterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            videoListView()
         }
     }
 }
